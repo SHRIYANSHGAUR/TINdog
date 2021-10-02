@@ -1,0 +1,199 @@
+.container-fluid
+{
+
+padding : 3% 15% 8% ;
+background-color:#FC46AA ;
+
+
+}
+
+body{
+
+font-family:"Sans" ;
+
+
+}
+.material-icons.md-36 { font-size: 36px; }
+
+
+
+.navbar-brand{
+
+  font-size:2rem;
+  font-style:"Ubuntu";
+  font-weight: bold;
+  color: #fff;
+}
+.navbar{
+
+padding-top:2rem;
+padding-left:1rem;
+
+padding-right: :1rem;
+padding-bottom:4rem;
+
+}
+.nav-item{
+padding: 0 18px;
+}
+
+.navlink{
+
+  font-size: 2.2rem;
+  font-style:"Ubuntu";
+
+}
+.imm{
+  width: 60%;
+  transform: rotate(20deg);
+position: absolute;
+ right:20%;
+
+
+}
+
+
+
+.dd-btton{
+padding :  2% 5% 2%;
+
+}
+.dd-btton2{
+padding :  2% 15% 2%;
+
+}
+
+
+#features{
+
+margin-top: 1px;
+  position: relative;
+z-index: 1;
+
+
+}
+
+
+
+
+.fbox{
+ text-align:center;
+ font-family:"Montserrat-Bold";
+ background-color: #fff;
+ padding: 5% 5% 5% 5% ;
+}
+
+h3{
+  font-family:"Montserrat-Bold";
+  font-size: 30px;
+  font-weight: bolder;
+}
+p{
+  font-family:"Sans-Serif";
+  font-size: 1rem;
+  color: #8f8f8f;
+
+}
+h1{
+  font-family:"Sans-Serif";
+
+  color: #fff;
+
+}
+.tim{
+  border-radius: 100%;
+  margin:25px;
+  width: 20%;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #FC46AA;
+  color: #fff;
+}
+
+.carousel-item{
+    padding: 5% 5% 5% 5% ;
+}
+
+
+
+
+#press{
+
+  background-color: #FC46AA;
+  color: #fff;
+  text-align: center;
+padding-bottom: 5%;
+
+}
+
+.pim{
+width: 15%;
+margin: 5% 3% 3% 3%;
+
+}
+
+#pricing{
+background-color: #fff;
+}
+.pp{
+
+  text-align: center;
+  padding : 2% 15% ;
+
+}
+
+
+
+.container-fluid-1
+{
+
+padding : 2% 18% ;
+background-color: #fff;
+
+
+}
+
+
+@media (max-width: 668px){
+
+.imm{
+  align:center;
+  position: static;
+  transform: rotate(0deg);
+}
+
+#title{
+  text-align: center;
+}
+
+}
+
+
+#cta{
+background-color: #FC46AA;
+color: #fff;
+padding: 7% 15% 7%;
+align: center;
+
+}
+
+.ctatext{
+  font-family: "Montserrat";
+  font-size: 48px;
+  text-align: center;
+  font-weight: bolder;
+ padding: 5% 10% 5%;
+}
+
+#footer{
+text-align: center;
+padding: 7% 1% 7%;
+
+}
+
+.ficon{
+  padding: inherit;
+}
